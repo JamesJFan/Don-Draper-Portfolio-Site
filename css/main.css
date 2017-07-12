@@ -160,7 +160,6 @@ header {
 }
 
 .featured-work h2 {
-  	padding-left: 15px;
   	text-align: center;
   	font-size: 2em;
   	font-weight: 400;
@@ -199,6 +198,7 @@ header {
 
   	.featured-work h2 {
   		text-align: left;
+			padding-left: 15px;
   	}
 
   	.logo {
@@ -214,4 +214,3 @@ header {
   	}
 
 }
-
